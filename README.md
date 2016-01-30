@@ -1,5 +1,5 @@
 # HTML5PildorasInformaticasVideo28
-HTML5- Curso - Píldoras Informáticas - Video30 - Degradados Lineales
+HTML5- Curso - Píldoras Informáticas - Video28 - Degradados Lineales
 <br />
 Ver Branch: HTML5PildorasInformáticasVideos28A >> Degradados Radiales
 <br />
